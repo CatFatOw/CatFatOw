@@ -72,6 +72,6 @@ I'm always interested in collaborating on software engineering, backend infrastr
 
 <div align="center">
 
-*"Build reliable software. Keep learning. Ship meaningful things."*
+*"Build reliable software. Keep learning. Ship meaningful things. Work Hard."*
 
 </div>
